@@ -1,1 +1,1 @@
-Here I keep my Neo4j course compilation book.
+This is a folder were you can find a book of complied Neo4j courses passed by me. I wanted a reference which I can search and I hope that Neo4j GraphAcademy will allow me to keep it. If so, I will add index to the book. As a data scientist, I was selecting courses which are beneficial for me. I started with 3 courses (Neo4j Fundamentals, Cypher Fundamentals, Graph Data Modeling Fundamentals) and I plan to add others.
